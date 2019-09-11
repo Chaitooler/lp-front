@@ -1,0 +1,17 @@
+.main-header {
+    background-color: #34495e;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.hl {
+    color: white;
+    margin-right: 5px;
+}
+.red-text{
+    color: #e74c3c;
+}
+.text-center {
+    text-align: center;
+}
